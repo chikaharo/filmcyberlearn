@@ -1,0 +1,12 @@
+.slick-next::before,
+.slick-prev::before {
+  color: gray;
+  font-size: 25px;
+}
+
+.width-item {
+  width: 300px !important;
+}
+
+.activeButton {
+}

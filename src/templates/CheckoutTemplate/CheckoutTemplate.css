@@ -1,0 +1,36 @@
+.bong {
+  filter: blur(1px) saturate(105%) drop-shadow(1px 14px 18px #3b3b3b);
+  -webkit-filter: blur(1px) saturate(105%) drop-shadow(1px 14px 18px #3b3b3b);
+  -moz-filter: blur(1px) saturate(105%) drop-shadow(1px 14px 18px #3b3b3b);
+}
+
+.ghe {
+  height: 40px;
+  width: 40px;
+  border-radius: 4px;
+  background-color: gray;
+  margin: 10px;
+}
+
+.gheVip {
+  background-color: rgb(162, 26, 162);
+}
+
+.gheChecked {
+  background-color: greenyellow !important;
+}
+
+.gheUnavailabled {
+  background-color: rgb(197, 15, 15) !important;
+}
+
+.gheBought {
+  background-color: rgb(246, 246, 246);
+  box-shadow: -1px 2px 18px -6px orange;
+  color: orange !important;
+  border: 1px solid orange;
+}
+
+.gheKhachDangDat {
+  background-color: rgb(247, 3, 113) !important;
+}
